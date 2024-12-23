@@ -7,7 +7,7 @@ Script Details
 - Author: Jon G
 - Categories: Discovery, Safe
 
-How to Use
+How to Use: 
 Run the script with Nmap to check for open ports:
 '''bash
 nmap --script [script_name] [target]
